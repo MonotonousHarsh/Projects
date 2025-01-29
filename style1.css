@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin: 30px;
+    margin-left: 50px;
+
+}
+input{
+    margin:20px;
+    margin-left: 0px;
+}
+label{
+    margin-left: 29px;
+    padding: 5px;
+    font-weight: 700;
+}
+button{
+       margin-left: 150px;
+       height: 40px;
+       width: 120px;
+       font-weight: 700;
+}
+h3{
+    margin-left: 80px;
+    margin: 30px;
+    padding-left: 20px;
+}
+p{
+    margin-left: 45px;
+    margin: 20px;
+    padding: 2px;
+    font-weight: 500;
+}
+body{
+    background-color: rgb(206, 214, 214);
+}
+.res{
+    display:none;
+    text-align: center;
+    font-size: 35x;
+     font-weight: 750;
+     color: blue;
+}
+#results{
+    text-align: center;
+    margin: 40px;
+    color: rgb(58, 61, 58);
+    font-weight: 800;
+    font-size: 34px;
+}

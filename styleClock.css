@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width:100%;
+    height: 618px;
+    background-color: rgb(7, 2, 2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+}
+.Banner{
+    color: white;
+    font-weight: 850;
+    font-size: 30px;
+}
+.clock{
+  width: 150px;
+  height: 40px;
+  background-color: orange;
+  border-radius: 6px;
+}
+.clock{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
